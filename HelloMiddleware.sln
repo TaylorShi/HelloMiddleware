@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demoForMiddleware31", "demoForMiddleware31\demoForMiddleware31.csproj", "{1CBFC1B3-A48A-4C4F-ADDF-B61FE132536F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoForMiddleware231", "demoForMiddleware231\demoForMiddleware231.csproj", "{39C3813C-AB55-496F-8B6E-AC0749901773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBFC1B3-A48A-4C4F-ADDF-B61FE132536F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBFC1B3-A48A-4C4F-ADDF-B61FE132536F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBFC1B3-A48A-4C4F-ADDF-B61FE132536F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBFC1B3-A48A-4C4F-ADDF-B61FE132536F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C3813C-AB55-496F-8B6E-AC0749901773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C3813C-AB55-496F-8B6E-AC0749901773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C3813C-AB55-496F-8B6E-AC0749901773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C3813C-AB55-496F-8B6E-AC0749901773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4FE3C0-0600-450E-A2AB-EACA0A9113AC}
+	EndGlobalSection
+EndGlobal
